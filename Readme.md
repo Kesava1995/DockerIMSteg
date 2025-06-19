@@ -1,5 +1,4 @@
-
-#Useful Commands
+**Useful Commands**
 
 docker pull phani1123/stegano-gui:latest
 
